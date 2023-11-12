@@ -1,2 +1,3 @@
-# .github
-oda-components organization profile
+## About
+This organization develops open source software for Open Digital Architecture (ODA).
+

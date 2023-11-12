@@ -12,7 +12,7 @@ The scope of work includes the following projects:
 * [ODA Canvas Reference Implementations](https://github.com/orgs/oda-components/projects/6/views/1?layout=board)
 
 ## Software Development Kits (SDK)
-A Software Development Kit (SDK) provides a documented application programing interface (API) for specific programing language.
+A Software Development Kit (SDK) provides a documented application programing interface (API) for a specific programing language.
 * Rust SDK
 * Go SDK
 * Python SDK

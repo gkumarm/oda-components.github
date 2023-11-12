@@ -1,3 +1,5 @@
 ## About
-This organization develops open source software for Open Digital Architecture (ODA).
+This organization develops open source software for Open Digital Architecture
+([ODA](https://www.tmforum.org/oda/)).
+
 

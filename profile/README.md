@@ -1,3 +1,5 @@
+[![Slack](https://img.shields.io/badge/ODA%20Components-slack-red?logo=slack&color=E01A59)](https://oda-components.slack.com)
+[![Website](https://img.shields.io/website?logo=oda-components&label=ODA%20Components%20WebSite&url=https%3A%2F%2Fwww.oda-components.org)](https://www.oda-components.org)
 ## About
 This organization develops open source software for Open Digital Architecture
 ([ODA](https://www.tmforum.org/oda/)).

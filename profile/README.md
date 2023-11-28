@@ -15,7 +15,7 @@ The scope of work includes the following projects:
 
 ## Software Development Kits (SDK)
 A Software Development Kit (SDK) provides a documented application programing interface (API) for a specific programing language.
-* Rust SDK
+* [Rust SDK](https://github.com/oda-components/oda-api-sdk-rust)
 * Go SDK
 * Python SDK
 * Node SDK
@@ -25,4 +25,3 @@ For each of the SDKs a reference implementation provides an exemplar, demonstrat
 * TMFxxx Open API Client
 * TMFxxx Open API Server
 * TMFCxxx ODA Component
-

@@ -16,9 +16,9 @@ The scope of work includes the following projects:
 ## Software Development Kits (SDK)
 A Software Development Kit (SDK) provides a documented application programing interface (API) for a specific programing language.
 * [Rust SDK](https://github.com/oda-components/oda-api-sdk-rust)
-* Go SDK
-* Python SDK
-* Node SDK
+* [Go SDK](https://github.com/oda-components/oda-api-sdk-go)
+* [Python SDK](https://github.com/oda-components/oda-api-sdk-python)
+* [Node SDK](https://github.com/oda-components/oda-api-sdk-node)
 
 ## Reference Implementations (RI)
 For each of the SDKs a reference implementation provides an exemplar, demonstrating best practices, built with one of the programming language specific SDKs.

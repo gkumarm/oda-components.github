@@ -2,6 +2,14 @@
 This organization develops open source software for Open Digital Architecture
 ([ODA](https://www.tmforum.org/oda/)).
 
+ODA is a standardized enterprise architecture blueprint for digital service
+providers developed as a collaborative project by members of
+[TM Forum](https://www.tmforum.org/). A map of the ODA Components can be found
+[here](https://www.tmforum.org/oda/directory/components-map), and further
+documentation is available [here](https://tmforum-oda.github.io/oda-ca-docs/).
+TM Forum's Open APIs can be downloaded
+[here](https://www.tmforum.org/oda/open-apis/table).
+
 ## Projects
 The scope of work includes the following projects:
 * [Open API SDKs](https://github.com/orgs/oda-components/projects/1/views/1?layout=board)

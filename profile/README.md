@@ -27,6 +27,7 @@ A Software Development Kit (SDK) provides a documented application programing in
 * [Go SDK](https://github.com/oda-components/oda-api-sdk-go)
 * [Python SDK](https://github.com/oda-components/oda-api-sdk-python)
 * [Node SDK](https://github.com/oda-components/oda-api-sdk-node)
+* [Java SDK](https://github.com/oda-components/oda-api-sdk-java)
 
 ## Reference Implementations (RI)
 For each of the SDKs a reference implementation provides an exemplar, demonstrating best practices, built with one of the programming language specific SDKs.
